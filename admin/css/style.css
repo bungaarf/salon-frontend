@@ -1,0 +1,5 @@
+#mostOrderedServicesChart {
+  width: 100% !important;   /* Membuat canvas mengisi lebar container */
+  max-width: 500px;         /* Maksimalkan lebar hingga 500px */
+  height: auto !important;  /* Sesuaikan tinggi secara otomatis */
+}
